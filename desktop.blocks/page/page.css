@@ -1,0 +1,6 @@
+/* desktop.blocks/page/page.css */
+.page {
+  padding: 1rem;
+
+  background-image: url("page.svg");
+}

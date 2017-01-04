@@ -1,0 +1,30 @@
+{
+  "name": "vanilla-bemcss",
+  "version": "0.1.0",
+  "description": "Vanilla BEM CSS builder",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palegrow/vanilla-bemcss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palegrow/vanilla-bemcss/issues"
+  },
+  "homepage": "https://github.com/palegrow/vanilla-bemcss#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.6.1",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-csso": "^2.0.0",
+    "gulp-postcss": "^6.2.0",
+    "gulp-rename": "^1.2.2",
+    "postcss-import": "^9.0.0",
+    "postcss-url": "^5.1.2",
+    "stylelint-config-standard": "^15.0.1"
+  }
+}

@@ -1,0 +1,10 @@
+/* common.blocks/page/page.css */
+.page {
+  margin: 0;
+
+  background-image: url("page.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+
+  font-family: 'Neucha', Arial;
+}

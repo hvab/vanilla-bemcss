@@ -1,0 +1,9 @@
+{
+  "extends": "stylelint-config-standard",
+  "rules": {
+    "block-no-empty": null,
+    "declaration-empty-line-before": null,
+    "max-empty-lines": 2,
+    "indentation": null
+  }
+}

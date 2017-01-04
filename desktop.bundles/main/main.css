@@ -1,0 +1,6 @@
+/* desktop.bundles/main/main.css */
+@import "../../common.blocks/neucha/neucha.css";
+@import "../../common.blocks/page/page.css";
+@import "../../desktop.blocks/page/page.css";
+@import "../../design/common.blocks/page/page.css";
+@import "../../design/desktop.blocks/page/page.css";

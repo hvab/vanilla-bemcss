@@ -1,0 +1,7 @@
+/* design/common.blocks/page/page.css */
+.page_theme_pale {
+  color: rgba(0, 0, 0, 0.87);
+  background-color: #fff;
+
+  font-size: 16px;
+}
