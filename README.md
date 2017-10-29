@@ -19,7 +19,9 @@ git clone https://github.com/palegrow/vanilla-bemcss.git new-project
 cd new-project
 npm install
 
-gulp --cwd common.bundles/main
+postcss common.bundles/main/main.css -o common.bundles/main/main.min.css
 
-gulp --cwd desktop.bundles/main
+postcss desktop.bundles/main/main.css -o desktop.bundles/main/main.min.css
 ```
+
+You can use full power of [postcss-cli](https://github.com/postcss/postcss-cli#options) here.
