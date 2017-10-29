@@ -1,0 +1,12 @@
+{
+  "map": false,
+  "plugins": {
+    "postcss-import": {},
+    "postcss-url": {},
+    "autoprefixer": [
+      "> 1%",
+      "last 2 versions"
+    ],
+    "postcss-csso": {}
+  }
+}
