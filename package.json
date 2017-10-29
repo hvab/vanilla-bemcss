@@ -18,13 +18,13 @@
   },
   "homepage": "https://github.com/palegrow/vanilla-bemcss#readme",
   "devDependencies": {
-    "autoprefixer": "^6.6.1",
+    "autoprefixer": "^7.1.6",
     "gulp": "github:gulpjs/gulp#4.0",
-    "gulp-csso": "^2.0.0",
-    "gulp-postcss": "^6.2.0",
+    "gulp-csso": "^3.0.0",
+    "gulp-postcss": "^7.0.0",
     "gulp-rename": "^1.2.2",
-    "postcss-import": "^9.0.0",
-    "postcss-url": "^5.1.2",
-    "stylelint-config-standard": "^15.0.1"
+    "postcss-import": "^11.0.0",
+    "postcss-url": "^7.1.2",
+    "stylelint-config-standard": "^17.0.0"
   }
 }
