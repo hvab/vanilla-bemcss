@@ -8,6 +8,3 @@ node_modules
 
 # Distribute directories
 *.min.css
-
-# OS files
-.DS_Store
